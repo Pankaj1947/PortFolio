@@ -6,15 +6,15 @@ I was able to achieve axact UI of the website, with all these major functionalit
 
 ### Screenshots
 #### Home Component-
-![alt text](https://github.com/abhishekmah/Portfolio/blob/master/Screenshots/home.png)
+![alt text](https://github.com/Pankaj1947/PortFolio/blob/main/Screenshots/Intro.png)
 #### About Component-
-![alt text](https://github.com/abhishekmah/Portfolio/blob/master/Screenshots/about.png)
+![alt text](https://github.com/Pankaj1947/PortFolio/blob/main/Screenshots/About.png)
 #### Project Component-
-![alt text](https://github.com/abhishekmah/Portfolio/blob/master/Screenshots/projects.png)
+![alt text](https://github.com/Pankaj1947/PortFolio/blob/main/Screenshots/Projects.png)
 #### Skill Component-
-![alt text](https://github.com/abhishekmah/Portfolio/blob/master/Screenshots/skills.png)
+![alt text](https://github.com/Pankaj1947/PortFolio/blob/main/Screenshots/Skills.png)
 #### Contact Component-
-![alt text](https://github.com/abhishekmah/Portfolio/blob/master/Screenshots/contacts.png)
+![alt text](https://github.com/Pankaj1947/PortFolio/blob/main/Screenshots/Contact.png)
 
 
 ### Components Designed:
