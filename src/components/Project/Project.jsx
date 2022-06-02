@@ -13,7 +13,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app - Android /iOS.',
+            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
             img: 'PharmEasy.png',
         },
         {
@@ -35,7 +35,7 @@ export default function Project() {
             linkBlog:
                 'https://weather-report-by-pankaj.netlify.app/',
             title: 'Weather Forcast',
-            desc: 'Weather Forcast is developed by me in one day using openweather api',
+            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api',
             img: 'WeatherApp.png',
         },
         {
@@ -46,7 +46,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide, offering ordering services through localized websites.',
+            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide.',
             img: 'HimalayaUSA.png',
         },
         {
@@ -57,7 +57,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app - Android /iOS.',
+            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
             img: 'PharmEasy.png',
         },
         {
@@ -79,7 +79,7 @@ export default function Project() {
             linkBlog:
                 'https://weather-report-by-pankaj.netlify.app/',
             title: 'Weather Forcast',
-            desc: 'Weather Forcast is developed by me in one day using openweather api',
+            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api',
             img: 'WeatherApp.png',
         },
         {
@@ -90,7 +90,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide, offering ordering services through localized websites.',
+            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide.',
             img: 'HimalayaUSA.png',
         }
     ];
