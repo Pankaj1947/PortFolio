@@ -13,7 +13,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
+            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript.',
             img: 'PharmEasy.png',
         },
         {
@@ -24,7 +24,7 @@ export default function Project() {
             linkBlog:
                 'https://health-kart.netlify.app/',
             title: 'HealthKart',
-            desc: 'HealthKart is your ideal platform for all nutrition, health and fitness products.',
+            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript.',
             img: 'HealthKart.png',
         },
         {
@@ -35,7 +35,7 @@ export default function Project() {
             linkBlog:
                 'https://weather-report-by-pankaj.netlify.app/',
             title: 'Weather Forcast',
-            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api',
+            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api HTML, CSS & JavaScript.',
             img: 'WeatherApp.png',
         },
         {
@@ -46,7 +46,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide.',
+            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux.',
             img: 'HimalayaUSA.png',
         },
         {
@@ -57,7 +57,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'PharmEasy is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
+            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript.',
             img: 'PharmEasy.png',
         },
         {
@@ -68,7 +68,7 @@ export default function Project() {
             linkBlog:
                 'https://health-kart.netlify.app/',
             title: 'HealthKart',
-            desc: 'HealthKart is your ideal platform for all nutrition, health and fitness products.',
+            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript.',
             img: 'HealthKart.png',
         },
         {
@@ -79,7 +79,7 @@ export default function Project() {
             linkBlog:
                 'https://weather-report-by-pankaj.netlify.app/',
             title: 'Weather Forcast',
-            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api',
+            desc: 'Weather Forcast is developed by only me in one day using OpenWeather api HTML, CSS & JavaScript.',
             img: 'WeatherApp.png',
         },
         {
@@ -90,7 +90,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: 'Himalyausa.com is a leading provider of herbal and beauty products worldwide.',
+            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux.',
             img: 'HimalayaUSA.png',
         }
     ];

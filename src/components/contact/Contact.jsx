@@ -63,9 +63,9 @@ export default function Contact() {
       </div>
       <br />
       <br />
-      <div className="footer">
+      {/* <div className="footer">
         <p style={{marginTop: 5}}>Created By <span>Pankaj</span> | © 2022 All rights reserved</p>
-      </div>
+      </div> */}
     </div>
   );
 }
