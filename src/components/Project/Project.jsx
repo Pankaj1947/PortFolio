@@ -13,7 +13,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript.',
+            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript which is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
             img: 'PharmEasy.png',
         },
         {
@@ -24,7 +24,7 @@ export default function Project() {
             linkBlog:
                 'https://health-kart.netlify.app/',
             title: 'HealthKart',
-            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript.',
+            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript which is your ideal platform for all nutrition, health and fitness products.',
             img: 'HealthKart.png',
         },
         {
@@ -46,7 +46,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux.',
+            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux which is a leading provider of herbal and beauty products worldwide.',
             img: 'HimalayaUSA.png',
         },
         {
@@ -57,7 +57,7 @@ export default function Project() {
             linkBlog:
                 'https://pharmeasy-website-clone.netlify.app/',
             title: 'PharmEasy',
-            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript.',
+            desc: 'Clone of PharmEasy Website using HTML, CSS & JavaScript which is one of India’s leading healthcare aggregators and most trusted medicine delivery app.',
             img: 'PharmEasy.png',
         },
         {
@@ -68,7 +68,7 @@ export default function Project() {
             linkBlog:
                 'https://health-kart.netlify.app/',
             title: 'HealthKart',
-            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript.',
+            desc: 'Clone of HealthKart Website using HTML, CSS & JavaScript which is your ideal platform for all nutrition, health and fitness products.',
             img: 'HealthKart.png',
         },
         {
@@ -90,7 +90,7 @@ export default function Project() {
             linkBlog:
                 'https://courageous-panda-a97c46.netlify.app/',
             title: 'Himalya USA',
-            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux.',
+            desc: ' Clone of HimalyaUSA Website using React-js & React-Redux which is a leading provider of herbal and beauty products worldwide.',
             img: 'HimalayaUSA.png',
         }
     ];
